@@ -1,0 +1,10 @@
+Frozen-Custard 20 10
+Frozen-Yogurt 10 15
+Gelato 30 12
+Organic 8 8
+Ice-Cream 7 9
+Italian-Ice 0 15
+Sherbet 6 12
+Slush-lemon 16 2.25
+Snow-Cone 17 1.25
+Sorbet 91 6

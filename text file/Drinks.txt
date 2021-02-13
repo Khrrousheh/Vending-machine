@@ -1,0 +1,10 @@
+Gatorade 10 3
+Coca-Cola 5 0.75
+Fanta 8 0.75
+red bull 10 2.5
+pepsi cola 2 1
+lemon-juice 3 1
+mango-juice 10 1
+Fruit-juice 5 1
+Bavaria 1 1.25
+XL 7 2

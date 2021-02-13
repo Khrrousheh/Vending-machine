@@ -1,0 +1,9 @@
+DORITOS 20 1
+CHEETOS 25 0.75
+Frito-Lay 10 0.5
+Pringles 8 2
+Lay's 25 0.25
+OREO 10 0.2
+M&M'S 25 0.4
+Skittles 3 0.45
+Nutella 1 0.75

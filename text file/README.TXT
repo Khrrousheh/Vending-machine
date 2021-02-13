@@ -14,3 +14,11 @@ project workflow:
     4. Foreach simulation the machine produce a bill
     5. Allow for the user to see and print a report of items
 
+Basic programming skills:
+    -> reading items from files
+    -> read files values as item=String, amount=integer, and price=double
+    -> use efficient data structure
+Object Oriented skills:
+    -> define data type (items)
+    -> specify construction of its as a factory
+    -> use gui to create it as desktop application
